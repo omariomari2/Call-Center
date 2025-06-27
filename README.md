@@ -1,4 +1,4 @@
-Gotcha, Bright. Let’s strike the balance—detailed enough to be useful, written like a technically-savvy student documenting their process, but still keeping it practical and readable. Here's the expanded write-up:
+Creating The Bot Using AWS Lex with Custom Instances
 
 ---
 
