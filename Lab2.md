@@ -1,4 +1,4 @@
-Building Up Call Center Using Amazon Connect & Lambda in Node.js Environment with JavaScript
+# Building Up Call Center Using Amazon Connect & Lambda in Node.js Environment with JavaScript
 ---
 
 ## ☎️ Lab 2 – Building a Call Center with Amazon Connect
