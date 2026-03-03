@@ -1,0 +1,29 @@
+
+        html {
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        @media only screen and (min-width: 768px) {
+            body.body {
+                overflow: hidden;
+                position: fixed;
+                max-height: 100vh;
+                inset: 0;
+            }
+        }
+
+        .debug-grid,
+        .container-column {
+            display: none;
+        }
+
+        [data-init-hidden],
+        [data-init-loader] {
+            opacity: 0;
+        }
+
+        .loader {
+            opacity: 1;
+            pointer-events: auto;
+        }
+    

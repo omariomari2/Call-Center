@@ -1,0 +1,7 @@
+
+                                                                    .home-map-location-item:nth-child(1) .home-map-location-ic {
+                                                                        --item-size: 44;
+                                                                        left: calc(105/1920 * 100%);
+                                                                        top: calc(520/1138 * 100%);
+                                                                    }
+                                                                

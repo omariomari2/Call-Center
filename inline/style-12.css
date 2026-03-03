@@ -1,0 +1,15 @@
+
+        .home-journal-sc-wrap {
+            display: flex;
+        }
+
+        .home-journal-bg.sc-4 {
+            display: none;
+        }
+
+        @media only screen (min-width: 992px) {
+            .home-journal-bg.sc-7 {
+                display: none;
+            }
+        }
+    

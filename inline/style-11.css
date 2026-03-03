@@ -1,0 +1,31 @@
+
+                            .footer-marquee-item:hover .footer-marquee-item-inner {
+                                transform: scale(1);
+                            }
+
+                            .footer-zoom-img {
+                                transition-delay: .1s;
+                            }
+
+                            .footer-zoom-txt {
+                                transition-delay: 0s;
+                            }
+
+                            .footer-zoom {
+                                transition-delay: .3s;
+                            }
+
+                            .footer-zoom.active {
+                                transition-delay: 0s;
+                            }
+
+                            .footer-zoom.active .footer-zoom-img,
+                            .footer-zoom.active .footer-zoom-txt {
+                                transform: translate(0);
+                                opacity: 1;
+                            }
+
+                            .footer-zoom.active .footer-zoom-txt {
+                                transition-delay: .2s;
+                            }
+                        
